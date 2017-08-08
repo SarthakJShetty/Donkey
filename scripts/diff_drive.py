@@ -46,7 +46,8 @@ if __name__ == '__main__':
     mypilot.load()
     #Create your car
     car = dk.vehicles.BaseVehicle(drive_loop_delay=cfg['vehicle_loop_delay'],
-                                  camera=mycamera,remote=myremote
+                                  camera=mycamera,
+                                  remote=myremote
                                   actuator_mixer=dd,
                                   pilot=mypilot)
     car.start()
