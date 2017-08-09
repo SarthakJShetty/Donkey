@@ -2,15 +2,8 @@
 
 Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
 
+This repository is a bug free version, which will allow you to build a Differential Drive Donkey. The motor driver used here is an Adafruit Motor HAT, and consequently all the code is written for the same.
 ---------------------------
-**REFACTOR IN PROGRESS** 
-
-*We've learned a lot in the past couple months and working to implement many of those changes in a new version Donkey 2.1. This version will make it easy for users to contribe new pilots, sensors, controllers, and actuators rather than needing to rewrite the the whole code base. This new ROS'ish version lives in the [dev branch](https://github.com/wroscoe/donkey/tree/dev) and will be merged into master on July 16th. All the hardware in the standard build will be supported and most of the funcationality for driving/training will remain.*
-
-
----------------------------
-
-
 ### [Build a Donkey Car.](http://www.donkeycar.com) ($200 + 2 hours)
 
 #### Use Donkey if you want to:
