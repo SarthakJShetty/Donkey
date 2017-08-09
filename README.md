@@ -1,6 +1,6 @@
 # Donkey: a self driving library and control platform for small scale DIY vehicles. 
 
-Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
+###Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
 
 This repository is a bug free version, which will allow you to build a Differential Drive Donkey. The motor driver used here is an Adafruit Motor HAT, and consequently all the code is written for the same.
 ---------------------------
