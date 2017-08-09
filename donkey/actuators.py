@@ -8,7 +8,8 @@ are wrapped in a mixer class before being used in the drive loop.
 
 import time
 import sys
-
+from Adafruit_MotorHAT import Adafruit_MotorHAT, Adafruit_DCMotor
+        import atexit
 
 def map_range(x, X_min, X_max, Y_min, Y_max):
     ''' 
