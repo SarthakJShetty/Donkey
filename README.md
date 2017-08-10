@@ -15,7 +15,7 @@ Donkey is minimalist and modular self driving library written in Python. It is d
 * Wifi car controls (a virtual joystic).
 * Community contributed driving data and autopilots.
 * Hardware CAD designs for optional upgrades.
-##### About:
+#### About:
 This repository is a bug free version, which will allow you to build a Differential Drive Donkey. The motor driver used here is an Adafruit Motor HAT, and consequently$
 
 
