@@ -1,8 +1,10 @@
 # Donkey: a self driving library and control platform for small scale DIY vehicles. 
 
-##### Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
+##### About
 
-##### This specific variant was developed by Will Roscoe and his team. The code was however non-functional, and was later fixed by Sarthak J Shetty. The code is still buggy, and a few of the features do not work completely. Suggestions are always welcome.
+- Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
+
+- This specific variant was developed by Will Roscoe and his team. The code was however non-functional, and was later fixed by Sarthak J Shetty. The code is still buggy, and a few of the features do not work completely. Suggestions are always welcome.
 
 ### Build a Differential Drive Donkey Car
 
