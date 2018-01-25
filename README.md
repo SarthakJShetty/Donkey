@@ -9,7 +9,7 @@
 #### [Instructions](https://docs.google.com/document/d/11IPqZcDcLTd2mtYaR5ONpDxFgL9Y1nMNTDvEarST8Wk/edit#)
 These instructions are for the Version 2 Donkey Car. The advantage of using a Differential Drive Donkey Car is that you do not have additional hardware components such as an ESC or camera mounts.
 
-#### [Video]()
+#### [Here it is in action!](https://youtu.be/0Sid7q3nsWY)
 
 #### Features:
 1. Data logging of image, steering angle, & throttle outputs. 
@@ -31,4 +31,4 @@ These instructions are for the Version 2 Donkey Car. The advantage of using a Di
 	- [Adafruit MotorHAT Controller](https://goo.gl/ofLpUK)
 
 #### Credits
-This project was developed by Will Roscoe and his team. All credits to him. They are in the process of scaling [the project](www.donkeycar.com)
+This project was developed by Will Roscoe and his team. All credits to him. They are in the process of scaling [the project.](www.donkeycar.com)
