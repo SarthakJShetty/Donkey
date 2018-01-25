@@ -1,21 +1,34 @@
 # Donkey: a self driving library and control platform for small scale DIY vehicles. 
 
-Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
-### [Build a Donkey Car.](http://www.donkeycar.com) ($200 + 2 hours)
+## Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
 
-#### Use Donkey if you want to:
-* Make an RC car drive its self.
-* Compete in self driving races like [DIY Robocars](diyrobocars.com)
-* Use existing autopilots to drive your car.
-* Use community datasets to create, improve and test autopilots that other people can use.  
+## This specific variant was developed by Will Roscoe and his team. The code was however non-functional, and was later fixed by Sarthak J Shetty. The code is still buggy, and a few of the features do not work completely. Suggestions are always welcome.
 
+### Build a Differential Drive Donkey Car
+
+#### [Instructions](https://docs.google.com/document/d/11IPqZcDcLTd2mtYaR5ONpDxFgL9Y1nMNTDvEarST8Wk/edit#)
+These instructions are for the Version 2 Donkey Car. The advantage of using a Differential Drive Donkey Car is that you do not have additional hardware components such as an ESC or camera mounts.
+
+#### [Video]()
 
 #### Features:
-* Data logging of image, steering angle, & throttle outputs. 
-* Wifi car controls (a virtual joystic).
-* Community contributed driving data and autopilots.
-* Hardware CAD designs for optional upgrades.
+1. Data logging of image, steering angle, & throttle outputs. 
+
+2. The bot is controlled over Wi-Fi from a host, using either a virtual or physical joystick and keyboard.
+
+3. Support of the Donkey Car Community (over 1,000 members at the time of this update.)
+
+4. CAD Models are available to print the camera mounts.
+
+5. Completely open-source.
+
 #### About:
-This repository is not bug free version, which will allow you to build a Differential Drive Donkey. The motor driver used here is an Adafruit Motor HAT, and consequently$
+- This repository is not bug free version, which will allow you to build a Differential Drive Donkey.
+
+- You will primarily require:
+	- [Raspberry Pi 3](https://goo.gl/W2Hrkb)
+	- [Raspberry Pi Module V2](https://goo.gl/frghxB) (can be swapped for a different model later on)
+	- [Adafruit MotorHAT Controller](https://goo.gl/ofLpUK)
+
 #### Credits
-This project was developed by Will Roscoe and all credits to him.
+This project was developed by Will Roscoe and his team. All credits to him. They are in the process of scaling [the project](www.donkeycar.com)
