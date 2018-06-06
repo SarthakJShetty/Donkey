@@ -25,7 +25,9 @@ These instructions are for the Version 2 Donkey Car. The advantage of using a Di
 5. Completely open-source.
 
 #### About:
-- This repository is not bug free version, which will allow you to build a Differential Drive Donkey.
+- This repository is not bug free version
+
+- However, the code works for the most part, and the vehicle does [work](https://github.com/SarthakJShetty/My-Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf) in learning and autonomous modes.
 
 - You will primarily require:
 	- [Raspberry Pi 3](https://goo.gl/W2Hrkb)
