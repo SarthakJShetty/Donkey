@@ -4,7 +4,7 @@
 
 - Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
 
-- This specific variant was developed by Will Roscoe and his team. The code was however non-functional, and was later fixed by Sarthak J Shetty. The code is still buggy, and a few of the features do not work completely. Suggestions are always welcome.
+- This specific variant was developed by Will Roscoe and his team. The code for the Differential Drive variant was however non-functional, and was later fixed by [Sarthak J Shetty](https://www.github.com/SarthakJShetty). The code is still buggy, and a few of the features do not work completely. Suggestions are always welcome.
 
 ### Build a Differential Drive Donkey Car
 
@@ -32,5 +32,7 @@ These instructions are for the Version 2 Donkey Car. The advantage of using a Di
 	- [Raspberry Pi Module V2](https://goo.gl/frghxB) (can be swapped for a different model later on)
 	- [Adafruit MotorHAT Controller](https://goo.gl/ofLpUK)
 
+- The Project Report has been uploaded [here](https://github.com/SarthakJShetty/My-Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf) as well. 
+
 #### Credits
-This project was developed by Will Roscoe and his team. All credits to him. They are in the process of scaling [the project.](www.donkeycar.com)
+This project was initiated by Will Roscoe and his team. All credits to him. They are in the process of scaling [the project.](www.donkeycar.com)
