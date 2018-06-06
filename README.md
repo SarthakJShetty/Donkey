@@ -27,7 +27,7 @@ These instructions are for the Version 2 Donkey Car. The advantage of using a Di
 #### About:
 - This repository is not bug free version
 
-- However, the code works for the most part, and the vehicle does [work](https://github.com/SarthakJShetty/My-Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf) in learning and autonomous modes.
+- However, the code works for the most part, and the vehicle does [work](https://youtu.be/0Sid7q3nsWY) in learning and autonomous modes.
 
 - You will primarily require:
 	- [Raspberry Pi 3](https://goo.gl/W2Hrkb)
