@@ -32,7 +32,7 @@ These instructions are for the Version 2 Donkey Car. The advantage of using a Di
 	- [Raspberry Pi Module V2](https://goo.gl/frghxB) (can be swapped for a different model later on)
 	- [Adafruit MotorHAT Controller](https://goo.gl/ofLpUK)
 
-- The Project Report has been uploaded [here](https://github.com/SarthakJShetty/My-Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf) as well. 
+- The Project Report has been uploaded [here.](https://github.com/SarthakJShetty/My-Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf) as well. 
 
 #### Credits
 This project was initiated by Will Roscoe and his team. All credits to him. They are in the process of scaling [the project.](www.donkeycar.com)
