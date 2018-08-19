@@ -38,7 +38,7 @@
 	- [Raspberry Pi Camera Module V2](https://goo.gl/frghxB "Raspberry Pi Camera") (can be swapped for a different model later on)
 	- [Adafruit MotorHAT Controller](https://goo.gl/ofLpUK "Adafruit MotorHAT Controller")
 
-- The Project Report has been uploaded [here.](https://github.com/SarthakJShetty/My-Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf "Project Report") as well. 
+- The Project Report has been uploaded [here.](https://github.com/SarthakJShetty/Donkey/blob/master/Project_Report/NITK_Summer_Report.pdf "Project Report") as well. 
 
 #### Credits
 This project was initiated by Will Roscoe and his team. They are in the process of scaling [the project.](https://www.donkeycar.com "Donkey-Car")
