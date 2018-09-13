@@ -2,22 +2,20 @@
 
 ### :warning: Code is buggy :warning:
 
-##### About
+### About:
 
 - Donkey is minimalist and modular self driving library written in Python. It is developed for hobbiests with a focus on allowing fast experimentation and easy community contributions.  
 
 - This specific variant was developed by Will Roscoe and his team. The code for the Differential Drive variant was however non-functional, and was later fixed by [Sarthak J Shetty](https://www.github.com/SarthakJShetty "Yours truly"). The code is still buggy, and a few of the features do not work completely. Suggestions are always welcome.
 
-### Build a Differential Drive Donkey Car
-
-#### [Instructions](https://docs.google.com/document/d/11IPqZcDcLTd2mtYaR5ONpDxFgL9Y1nMNTDvEarST8Wk/edit# "How to build your own")
+### [Instructions](https://docs.google.com/document/d/11IPqZcDcLTd2mtYaR5ONpDxFgL9Y1nMNTDvEarST8Wk/edit# "How to build your own"):
 - These instructions are for the Version 2 Donkey Car.
 
 - The advantage of using a Differential Drive Donkey Car is that you do not have additional hardware components such as an ESC or camera mounts.
 
 #### [Here it is in action!](https://youtu.be/0Sid7q3nsWY "Check it out!")
 
-#### Features:
+### Features:
 1. Data logging of image, steering angle, & throttle outputs. 
 
 2. The bot is controlled over Wi-Fi from a host, using either a virtual or physical joystick and keyboard.
